@@ -176,7 +176,7 @@ You have two primary ways to manage the website's content:
 ## **🎬 Video Tutorial**
 
 Watch the comprehensive video guide on setting up and using this project:  
-📺 Project Tutorial on YouTube (Note: Original link was https://youtu.be/f3gEA14XUK8 which might be a placeholder. Please update if you have the correct link\!)
+📺 Project Tutorial on YouTube : https://youtu.be/f3gEA14XUK8 
 
 ## **☁️ GitHub Pages Setup & Data Update**
 
