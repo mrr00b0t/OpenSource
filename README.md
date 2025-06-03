@@ -50,7 +50,7 @@ A sleek, modern, and highly customizable static website template designed for sh
 * **📱 Responsive Design:** Aims for excellent usability across various screen sizes and devices (basic responsiveness provided by CSS).  
 * **🔗 Hardcoded Footer Links:** The footer includes fixed links for "Contact Developer" and "Create Your Own Website".
 
-### **مدیریت محتوا (Content Manager) (content\_manager.py)**
+### ** (Content Manager) (content\_manager.py)**
 
 * **💻 CLI Interface:** A simple and effective command-line tool for managing website content without needing to directly edit JSON files.  
 * **🔄 Manages data.json:** Seamlessly loads from and saves changes to the data.json file.  
