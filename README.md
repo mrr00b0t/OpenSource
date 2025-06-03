@@ -136,9 +136,10 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 4.  Push to the branch (`git push origin feature/AmazingFeature`).
 5.  Open a Pull Request.
 
-## License
-This project is open source. Please choose and add a license file if you wish (e.g., MIT License is a popular choice).
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## Author & Contact
 * **GitHub:** [mrr00b0t](https://github.com/mrr00b0t)
 * **Telegram (for development contact/queries regarding this project):** [Tyrell_TheForgottenOne](https://t.me/Tyrell_TheForgottenOne)
