@@ -128,6 +128,10 @@ You have two primary ways to manage the website's content:
 Watch the comprehensive video guide on setting up and using this project:
 [Project Tutorial on YouTube](https://youtu.be/f3gEA14XUK8)
 
+## Setup On GitHub Page & Update Data
+* **Update Data:** Run Python file in your local machine inside the same dir/folder of data.json / When You finished, Upload  and Update data.json to GitHub.
+* **Setup On GitHub page:** Coming soon , pls wait 
+
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to:
 1.  Fork the repository.
