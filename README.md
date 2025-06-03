@@ -181,8 +181,16 @@ Watch the comprehensive video guide on setting up and using this project:
 ## **☁️ GitHub Pages Setup & Data Update**
 
 * **🔄 Update Data:** Run the Python file (content\_manager.py) in your local machine within the same directory/folder as data.json. When you've finished making changes, upload and update data.json to your GitHub repository.  
-* **🚀 Setup On GitHub Pages:** (Details coming soon, please wait for updates from the project author\!)
-
+* **🚀 Setup On GitHub Pages:**
+* 1. Create Github account
+  2. Create New Repo
+  3. Upload file , drag and drop
+  4. commit changes
+  5. wait for the progress to finish
+  6. done
+* **Video Tutorial:**
+* Watch the comprehensive video guide on setting up and using this project:  
+📺 Project Tutorial on YouTube https://youtu.be/JMq3ZB2iCOg
 ## **🤝 Contributing**
 
 Contributions are welcome and highly appreciated\! If you have suggestions or improvements, feel free to:
